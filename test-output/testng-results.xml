@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T16:28:57 AEST" name="Suite" finished-at="2022-12-14T16:29:10 AEST" duration-ms="13244">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T16:28:57 AEST" name="Test c" finished-at="2022-12-14T16:29:00 AEST" duration-ms="3623">
+      <class name="tests.Checkout_Page_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:28:57 AEST" name="beforeClass" finished-at="2022-12-14T16:28:57 AEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:28:57 AEST" name="setup" finished-at="2022-12-14T16:28:58 AEST" duration-ms="1714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="missingInput()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:28:58 AEST" name="missingInput" finished-at="2022-12-14T16:28:59 AEST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- missingInput -->
+        <test-method is-config="true" signature="after()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:28:59 AEST" name="after" finished-at="2022-12-14T16:28:59 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:28:59 AEST" name="setup" finished-at="2022-12-14T16:29:00 AEST" duration-ms="1269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="requireInput()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:29:00 AEST" name="requireInput" finished-at="2022-12-14T16:29:00 AEST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requireInput -->
+        <test-method is-config="true" signature="after()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:29:00 AEST" name="after" finished-at="2022-12-14T16:29:00 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.Checkout_Page_Test@27ce24aa]" started-at="2022-12-14T16:29:00 AEST" name="afterClass" finished-at="2022-12-14T16:29:00 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.Checkout_Page_Test -->
+    </test> <!-- Test c -->
+    <test started-at="2022-12-14T16:29:00 AEST" name="Test ff" finished-at="2022-12-14T16:29:10 AEST" duration-ms="9609">
+      <class name="tests.Checkout_Page_Test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:00 AEST" name="setup" finished-at="2022-12-14T16:29:05 AEST" duration-ms="4990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:00 AEST" name="beforeClass" finished-at="2022-12-14T16:29:00 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="missingInput()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:05 AEST" name="missingInput" finished-at="2022-12-14T16:29:06 AEST" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- missingInput -->
+        <test-method is-config="true" signature="after()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:06 AEST" name="after" finished-at="2022-12-14T16:29:06 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:06 AEST" name="setup" finished-at="2022-12-14T16:29:09 AEST" duration-ms="2939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="requireInput()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:09 AEST" name="requireInput" finished-at="2022-12-14T16:29:10 AEST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requireInput -->
+        <test-method is-config="true" signature="after()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:10 AEST" name="after" finished-at="2022-12-14T16:29:10 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.Checkout_Page_Test@6dc17b83]" started-at="2022-12-14T16:29:10 AEST" name="afterClass" finished-at="2022-12-14T16:29:10 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.Checkout_Page_Test -->
+    </test> <!-- Test ff -->
+  </suite> <!-- Suite -->
+</testng-results>
